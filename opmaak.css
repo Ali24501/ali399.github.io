@@ -1,0 +1,64 @@
+html {
+    background-color: #000cf9;
+}
+
+
+h1 {
+  font-weight: bold;
+  font-style: italic;
+  text-align : center;
+  font-family: Georgia, "Times New Roman", Times, serif;
+
+}
+h1, h2{
+  color: #2df900;
+  background-color: slateblue;
+  text-align : center;
+}
+
+p{
+  font-size: 26px;
+  line-height:45px;
+  word-spacing:2px;
+  letter-spacing:normal;
+  text-indent:inherit;
+  font-weight: bold;
+}
+
+
+
+ul {
+    list-style-type: none;
+    margin: 100;
+    padding: 200;
+    width: 280px;
+    border: 2px solid LightSeagreen;
+    background-color: #5b81ff;
+}
+
+
+ul li {
+  display: inline;
+}
+
+li a:hover {
+    background-color: #2b7cff;
+    color: red;
+}
+
+p.antwoord{
+  color: LightSeagreen;
+  background-color: LightSeagreen;
+
+}
+p.antwoord:hover {
+  color: blue;
+}
+
+
+
+
+
+Table.Reload{
+
+}
